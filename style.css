@@ -1,0 +1,65 @@
+.welcome-area{
+    background-image: url(assets/image/slide-bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+}
+
+body,html{
+    height: 100%;
+}
+.welcome-area{
+    height: 100%;
+    width: 100%;
+}
+
+.welcome-area-inner{
+    vertical-align: middle;
+}
+
+.welcome-area-inner h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.welcome-area-inner h4 {
+    font-size: 25px;
+}
+
+.email-subscribe {
+    width: 80%;
+    margin: 50px auto;
+}
+
+.email-subscribe input {
+    width: 100%;
+    border: none;
+    text-align: center;
+    padding: 20px;
+    border-radius: 25px;
+    font-style: italic;
+}
+
+.email-subscribe input[type="submit"] {
+    background: #fc721e;
+    margin-top: 30px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.single-count-down-item{
+    display: inline-block;
+    font-size: 70px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    padding: 20px;
+}
+.single-count-down-item span{
+    font-size:18px;
+    font-weight: 400;
+}
+.count-down-wrapper{
+
+}
